@@ -12,3 +12,4 @@ Feature: Verify new college user is created
     Then application displays one request for college user
     When admin user approves the request
     Then application creates the college in HTCampus
+
